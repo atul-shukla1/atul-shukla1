@@ -8,7 +8,7 @@
 - 💬 TEDx speaker (https://www.ted.com/talks/atul_shukla_reinventing_oneself)
 
 ## I beleive in
-<img src="![365quoteimage](https://github.com/user-attachments/assets/a3ed93f6-861a-4045-94e2-2762e69f33b6)alt="Side Image" align="right" width="800">
+![365quoteimage](https://github.com/user-attachments/assets/a3ed93f6-861a-4045-94e2-2762e69f33b6)
 
 <!---
 atul-shukla1/atul-shukla1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
