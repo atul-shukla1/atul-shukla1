@@ -7,7 +7,7 @@
 - 🎓 Leadership with AI **@ISB-Hyderabad** 
 - 💬 TEDx speaker (https://www.ted.com/talks/atul_shukla_reinventing_oneself)
 
-## 🤠 I beleive in
+## 🤠 I believe in
 ![365quoteimage](https://github.com/user-attachments/assets/a3ed93f6-861a-4045-94e2-2762e69f33b6)
 
 <!---
