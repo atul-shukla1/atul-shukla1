@@ -1,4 +1,4 @@
-## About Me
+## ✋ About Me
 - 👋 Hi, I’m Atul Shukla
 - 🖥 Banker, AI/ML Enthusiast
 - 💼 Executive Director - JP Morgan Chase, Head - India Auto Finance Strategy
@@ -7,7 +7,7 @@
 - 🎓 Leadership with AI **@ISB-Hyderabad** 
 - 💬 TEDx speaker (https://www.ted.com/talks/atul_shukla_reinventing_oneself)
 
-## I beleive in
+## 🤠 I beleive in
 ![365quoteimage](https://github.com/user-attachments/assets/a3ed93f6-861a-4045-94e2-2762e69f33b6)
 
 <!---
